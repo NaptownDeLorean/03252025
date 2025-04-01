@@ -1,0 +1,5 @@
+Reset local branch to match remote exactly
+
+If you want to discard all local changes and make your local branch exactly match the remote repository:
+
+      git reset --hard origin/main
